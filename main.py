@@ -41,10 +41,6 @@ for filename in os.listdir('./cogs'):
 
         except commands.ExtensionError as e:
             print(f'{e.__class__.__name__}: {e}')
-            
-bot.load_extension("uptime")
-
-
 
 @bot.event
 async def on_message(message):
