@@ -1,6 +1,7 @@
 import asyncio
 import nextcord
 from nextcord.ext import commands, tasks
+from keep_alive import keep_alive
 import os
 from tinydb import TinyDB, Query
 from dotenv import load_dotenv
