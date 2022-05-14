@@ -1,0 +1,867 @@
+[
+  {
+    "id": 1,
+    "question": "What has an eye but no head?",
+    "answer": "A needle"
+  },
+  {
+    "id": 2,
+    "question": "What room has no floor, roofs, doors or windows",
+    "answer": "A mushroom"
+  },
+  {
+    "id": 3,
+    "question": "What runs but has no legs",
+    "answer": "A tap"
+  },
+  {
+    "id": 4,
+    "question": "What ring is square?",
+    "answer": "A boxing ring"
+  },
+  {
+    "id": 5,
+    "question": "Which word is always pronounces wrongly?",
+    "answer": "Wrongly"
+  },
+  {
+    "id": 6,
+    "question": "What fish do dogs love to chase?",
+    "answer": "Catfish"
+  },
+  {
+    "id": 7,
+    "question": "What did the policeman have in his sandwhiches?",
+    "answer": "Traffic Jam"
+  },
+  {
+    "id": 8,
+    "question": "Can a mouse jump higher than the Qutub Minar?",
+    "answer": "Yes. The Qutub Minar cannot jump."
+  },
+  {
+    "id": 9,
+    "question": "Can a shoe box?",
+    "answer": "No, but a tin can."
+  },
+  {
+    "id": 10,
+    "question": "What's black when dirty and white when clean?",
+    "answer": "A blackboard"
+  },
+  {
+    "id": 11,
+    "question": "When will a net hold water?",
+    "answer": "When water is frozen."
+  },
+  {
+    "id": 12,
+    "question": "What clothes do lawyers wear in courts?",
+    "answer": "Lawsuits"
+  },
+  {
+    "id": 13,
+    "question": "What is the hottest letter of the alphabet?",
+    "answer": "B; it makes oil boil."
+  },
+  {
+    "id": 14,
+    "question": "What has a neck but no head?",
+    "answer": "A bottle"
+  },
+  {
+    "id": 15,
+    "question": "What is the beginning of eternity, the end of time, space and minute, beginning of every end, and the end of every race?",
+    "answer": "The letter E"
+  },
+  {
+    "id": 16,
+    "question": "Why is a river rich?",
+    "answer": "It has two banks"
+  },
+  {
+    "id": 17,
+    "question": "Why was Cinderella thrown out of the football team?",
+    "answer": "She kept running away from the ball."
+  },
+  {
+    "id": 18,
+    "question": "What are the best things to put in an ice-cream?",
+    "answer": "Your teeth."
+  },
+  {
+    "id": 19,
+    "question": "What can you make that can't be seen?",
+    "answer": "Noise"
+  },
+  {
+    "id": 20,
+    "question": "Who is the biggest gang-star of the ocean?",
+    "answer": "Al Ca-prawn"
+  },
+  {
+    "id": 21,
+    "question": "Which animal falls from the clouds?",
+    "answer": "A Reindeer"
+  },
+  {
+    "id": 22,
+    "question": "What looks most like half a banana?",
+    "answer": "The other half"
+  },
+  {
+    "id": 23,
+    "question": "How can you go for forty days without sleeping and not get tired?",
+    "answer": "Sleep during the night"
+  },
+  {
+    "id": 24,
+    "question": "Why didn't the grape snore?",
+    "answer": "Because it was afraid of waking up the rest of the bunch"
+  },
+  {
+    "id": 25,
+    "question": "Why is a bees hair sweet?",
+    "answer": "Because it uses a honey comb"
+  },
+  {
+    "id": 26,
+    "question": "What did the mother bee say to the little bee?",
+    "answer": "Bee-have"
+  },
+  {
+    "id": 27,
+    "question": "What did the big fountain say to the little fountain?",
+    "answer": "You're too young to drink."
+  },
+  {
+    "id": 28,
+    "question": "Whose bark is a silent bark?",
+    "answer": "The bark of a tree"
+  },
+  {
+    "id": 29,
+    "question": "What would you call a train loaded with bubble-gums?",
+    "answer": "The Chew-Chew Train"
+  },
+  {
+    "id": 30,
+    "question": "What question can never be answered by a yes?",
+    "answer": "Are you asleep?"
+  },
+  {
+    "id": 31,
+    "question": "What pipes are never played in Scotland?",
+    "answer": "The hose-pipes?"
+  },
+  {
+    "id": 32,
+    "question": "With what do the Eskimos play soccer?",
+    "answer": "The snowball"
+  },
+  {
+    "id": 33,
+    "question": "Why did Sally take a bale of hay to bed?",
+    "answer": "She wanted to feed her nightmare."
+  },
+  {
+    "id": 34,
+    "question": "What's black and yellow and lies on its back?",
+    "answer": "A dead taxi"
+  },
+  {
+    "id": 35,
+    "question": "Why did the oranges stop rolling down the hill?",
+    "answer": "It ran out of juice."
+  },
+  {
+    "id": 36,
+    "question": "How do angels greet each other?",
+    "answer": "Halo"
+  },
+  {
+    "id": 37,
+    "question": "What's black and white and noisy?",
+    "answer": "An angry zebra with a whistle."
+  },
+  {
+    "id": 38,
+    "question": "What did Daddy Shoe say to the Baby Shoe?",
+    "answer": "You better shine up."
+  },
+  {
+    "id": 39,
+    "question": "What did the egg say to the mixer?",
+    "answer": "I know when I am beaten."
+  },
+  {
+    "id": 40,
+    "question": "What did the calculator say to the accountant?",
+    "answer": "You can count on me."
+  },
+  {
+    "id": 41,
+    "question": "How do ghosts steal money from the banks?",
+    "answer": "They use skeleton keys."
+  },
+  {
+    "id": 42,
+    "question": "What did one lift say to the other?",
+    "answer": "I hate these ups and downs of life."
+  },
+  {
+    "id": 43,
+    "question": "What did the postage stamp say to the envelope?",
+    "answer": "We are in a sticky situation."
+  },
+  {
+    "id": 44,
+    "question": "I sometimes bite you, but always comfort you. Who am I?",
+    "answer": "Shoes."
+  },
+  {
+    "id": 45,
+    "question": "What never asks questions but is always answered?",
+    "answer": "A doorbell"
+  },
+  {
+    "id": 46,
+    "question": "Who drives all his customers away?",
+    "answer": "A taxi driver"
+  },
+  {
+    "id": 47,
+    "question": "Why are goldfish gold?",
+    "answer": "So that they don't go rusty."
+  },
+  {
+    "id": 48,
+    "question": "What is *minimum*?",
+    "answer": "A small mother"
+  },
+  {
+    "id": 49,
+    "question": "What whistles when its hot?",
+    "answer": "A kettle"
+  },
+  {
+    "id": 50,
+    "question": "You can't live without me and you can't live on me. Who am I?",
+    "answer": "The Sun"
+  },
+  {
+    "id": 51,
+    "question": "Which is the city do people have problems with snakes?",
+    "answer": "Nagpur"
+  },
+  {
+    "id": 52,
+    "question": "In what month do people sleep the least?",
+    "answer": "February. It is the shortest month."
+  },
+  {
+    "id": 53,
+    "question": "Why is the number 10 afraid of the number 7?",
+    "answer": "Because 7 8 9! (Seven ate Nine)"
+  },
+  {
+    "id": 54,
+    "question": "What travels faster, heat or cold?",
+    "answer": "Heat; because its easy to catch cold."
+  },
+  {
+    "id": 55,
+    "question": "What is the opposite of minimum?",
+    "answer": "Minidad"
+  },
+  {
+    "id": 56,
+    "question": "Is that a popular song she was singing?",
+    "answer": "It was so, before she sang it."
+  },
+  {
+    "id": 57,
+    "question": "Which lion is not a lion?",
+    "answer": "A mil-lion"
+  },
+  {
+    "id": 58,
+    "question": "What do you call a sleeping bull?",
+    "answer": "A bulldozer"
+  },
+  {
+    "id": 59,
+    "question": "What is the longest insect?",
+    "answer": "The centipede; its body covers a hundred feet."
+  },
+  {
+    "id": 60,
+    "question": "What part of Calcutta is Delhi?",
+    "answer": "The letter L"
+  },
+  {
+    "id": 61,
+    "question": "Which ship is not a ship?",
+    "answer": "Worship"
+  },
+  {
+    "id": 62,
+    "question": "Why is it difficult to open a piano?",
+    "answer": "Because the keys are all inside."
+  },
+  {
+    "id": 63,
+    "question": "Why can't a steam engine sit down?",
+    "answer": "Because it has a tender behind."
+  },
+  {
+    "id": 64,
+    "question": "What always weighs the same, no matter how big it gets?",
+    "answer": "A shadow"
+  },
+  {
+    "id": 65,
+    "question": "What is the difference between an angry rabbit and a counterfeit note of five bucks?",
+    "answer": "One is mad bunny and the other is bad money."
+  },
+  {
+    "id": 66,
+    "question": "Which is the biggest ant in the world?",
+    "answer": "An eleph-ant"
+  },
+  {
+    "id": 67,
+    "question": "What makes the Tower of Pisa lean?",
+    "answer": "Because it doesn't eat much."
+  },
+  {
+    "id": 68,
+    "question": "Which driver cannot drive a car?",
+    "answer": "A screw driver"
+  },
+  {
+    "id": 69,
+    "question": "Which word does not remain constant?",
+    "answer": "Elastic, because it stretches."
+  },
+  {
+    "id": 70,
+    "question": "What do you call a mercenary who does not kill?",
+    "answer": "A bad mercenary"
+  },
+  {
+    "id": 71,
+    "question": "How does an octopus go for dinner?",
+    "answer": "Well-armed"
+  },
+  {
+    "id": 72,
+    "question": "What can never be made right?",
+    "answer": "Your left elbow"
+  },
+  {
+    "id": 73,
+    "question": "Who gets the sack the moment he reports for duty every morning?",
+    "answer": "The postman"
+  },
+  {
+    "id": 74,
+    "question": "What has two heads, six legs and a tail?",
+    "answer": "A man on a horse"
+  },
+  {
+    "id": 75,
+    "question": "On what bow can't you use arrows?",
+    "answer": "A rain-bow"
+  },
+  {
+    "id": 76,
+    "question": "Which ant drinks milk?",
+    "answer": "An inf-ant"
+  },
+  {
+    "id": 77,
+    "question": "Where were automobiles first serviced?",
+    "answer": "In Greece"
+  },
+  {
+    "id": 78,
+    "question": "What always goes to bed wearing a fur?",
+    "answer": "A polar bear"
+  },
+  {
+    "id": 79,
+    "question": "What did the small tap say to the big tap?",
+    "answer": "You big drip"
+  },
+  {
+    "id": 80,
+    "question": "What stays in one corner yet travels around the world?",
+    "answer": "A postage stamp"
+  },
+  {
+    "id": 81,
+    "question": "Why is the letter A so hot?",
+    "answer": "Because its in the middle of May"
+  },
+  {
+    "id": 82,
+    "question": "Which company produces satisfaction?",
+    "answer": "A satis-factory"
+  },
+  {
+    "id": 83,
+    "question": "How many oranges can you put in an empty box?",
+    "answer": "One. After that, the box isn't empty."
+  },
+  {
+    "id": 84,
+    "question": "What dog has no tail?",
+    "answer": "A hot-dog"
+  },
+  {
+    "id": 85,
+    "question": "Which is the favourite city of cows?",
+    "answer": "Moo York"
+  },
+  {
+    "id": 86,
+    "question": "Where does the tiger go when it loses its tail?",
+    "answer": "To a retailer."
+  },
+  {
+    "id": 87,
+    "question": "What did the painting say to the wall",
+    "answer": "I have got you covered."
+  },
+  {
+    "id": 88,
+    "question": "Which famous detective loved soap?",
+    "answer": "Sherlock Foams"
+  },
+  {
+    "id": 89,
+    "question": "Do you know the joke about the rope?",
+    "answer": "No. I do knot."
+  },
+  {
+    "id": 90,
+    "question": "What did the pineapple say to the mango?",
+    "answer": "We are in a jam."
+  },
+  {
+    "id": 91,
+    "question": "Which illness do Chinese people suffer from?",
+    "answer": "Kung Flu."
+  },
+  {
+    "id": 92,
+    "question": "What is the favourite hobby of *Mr. Kaul*?",
+    "answer": "Making long distance *kauls*"
+  },
+  {
+    "id": 93,
+    "question": "Which insect is highly musical?",
+    "answer": "A humbug"
+  },
+  {
+    "id": 94,
+    "question": "Who was the famous spy who loved tea?",
+    "answer": "Brooke Bond"
+  },
+  {
+    "id": 95,
+    "question": "What do you get when you hold a bottle of Coke upside down over your head?",
+    "answer": "Wet."
+  },
+  {
+    "id": 96,
+    "question": "What's white and fury and red all over?",
+    "answer": "A sun-burnt polar bear."
+  },
+  {
+    "id": 97,
+    "question": "Which city is very full of explosives?",
+    "answer": "Bomb-ay"
+  },
+  {
+    "id": 98,
+    "question": "What is ice",
+    "answer": "Hard Water"
+  },
+  {
+    "id": 99,
+    "question": "Which city is very fortunate?",
+    "answer": "Luck-now"
+  },
+  {
+    "id": 100,
+    "question": "What tree has dead bodies in it?",
+    "answer": "A Cemetery (Ceme-tree)"
+  },
+  {
+    "id": 101,
+    "question": "What is black and white and swings through trees?",
+    "answer": "A penguin who likes to monkey around."
+  },
+  {
+    "id": 102,
+    "question": "Which animal has the highest intelligence?",
+    "answer": "The giraffe"
+  },
+  {
+    "id": 103,
+    "question": "What goes *zzub zzub*?",
+    "answer": "A mosquito flying backward."
+  },
+  {
+    "id": 104,
+    "question": "What game do cannibal children love to play?",
+    "answer": "Swallow the leader."
+  },
+  {
+    "id": 105,
+    "question": "What ia large, grey and wrinkled?",
+    "answer": "An elephant"
+  },
+  {
+    "id": 106,
+    "question": "32 white horses upon a red hill. Now they stamp, now they fall down, now they get up again, now they stand still. What are they?",
+    "answer": "Teeth"
+  },
+  {
+    "id": 107,
+    "question": "I am made up of a brown house- inside the brown house is a white house- inside the white house there is milk. What am I?",
+    "answer": "Coconut"
+  },
+  {
+    "id": 108,
+    "question": "What is black and white and read all over?",
+    "answer": "A newspaper"
+  },
+  {
+    "id": 109,
+    "question": "The longer I live, the shorter I grow. Who am I?",
+    "answer": "A candle"
+  },
+  {
+    "id": 110,
+    "question": "What is as big as an elephant but does not weigh even a milligram?",
+    "answer": "An elephant's shadow"
+  },
+  {
+    "id": 111,
+    "question": "What is the difference between an elephant and a chicken?",
+    "answer": "An elephant can get chicken pox but a chicken cannot get elephant pox."
+  },
+  {
+    "id": 112,
+    "question": "What animals need oiling?",
+    "answer": "Mice, because they squeak."
+  },
+  {
+    "id": 113,
+    "question": "Which stick is not used for support, beating and by men?",
+    "answer": "A lip-stick"
+  },
+  {
+    "id": 114,
+    "question": "Which city has no residents?",
+    "answer": "Electri-city"
+  },
+  {
+    "id": 115,
+    "question": "If your clock strikes thirteen, what time is it?",
+    "answer": "Time to get a new clock."
+  },
+  {
+    "id": 116,
+    "question": "Which city is like a rubber band?",
+    "answer": "Elasti-city"
+  },
+  {
+    "id": 117,
+    "question": "What has eight legs and can't walk?",
+    "answer": "Two chairs."
+  },
+  {
+    "id": 118,
+    "question": "What day of the year is a command to go forward?",
+    "answer": "March 4th (March forth)"
+  },
+  {
+    "id": 119,
+    "question": "What is it that runs uphill and downhill and yet never moves?",
+    "answer": "Road"
+  },
+  {
+    "id": 120,
+    "question": "What do frogs drink?",
+    "answer": "Croaka Cola"
+  },
+  {
+    "id": 121,
+    "question": "What did one wall say to the other?",
+    "answer": "I'll meet you at the corner."
+  },
+  {
+    "id": 122,
+    "question": "What hold water but is full of holes?",
+    "answer": "Sponge"
+  },
+  {
+    "id": 123,
+    "question": "What has a face but no mouth?",
+    "answer": "A clock"
+  },
+  {
+    "id": 124,
+    "question": "What has a mouth but no face?",
+    "answer": "A river"
+  },
+  {
+    "id": 125,
+    "question": "If you use banana skins to make shoes, what kind will they be?",
+    "answer": "Slippers"
+  },
+  {
+    "id": 126,
+    "question": "I am somebody everybody tends to overlook no matter how careful they may be. Who I am?",
+    "answer": "Nose"
+  },
+  {
+    "id": 127,
+    "question": "Why is a coward like a leaky tap?",
+    "answer": "Because they both run."
+  },
+  {
+    "id": 128,
+    "question": "When is a sailor like a plank?",
+    "answer": "When he is aboard."
+  },
+  {
+    "id": 129,
+    "question": "Think carefully and try to figure out what is it what is found in the centre of America and Australia.",
+    "answer": "The letter R."
+  },
+  {
+    "id": 130,
+    "question": "When does a candle get angry?",
+    "answer": "When it flares up."
+  },
+  {
+    "id": 131,
+    "question": "What goes through a door but never goes in or comes out?",
+    "answer": "A Keyhole"
+  },
+  {
+    "id": 132,
+    "question": "Why did the boy throw the butter out of the window?",
+    "answer": "Because he wanted to see the butter-fly."
+  },
+  {
+    "id": 133,
+    "question": "What is a fish of precious metals?",
+    "answer": "Goldfish"
+  },
+  {
+    "id": 134,
+    "question": "Everyone takes off their hat for me. Who am I?",
+    "answer": "A barber"
+  },
+  {
+    "id": 135,
+    "question": "What fruit is never found singly?",
+    "answer": "A pear (pair)"
+  },
+  {
+    "id": 136,
+    "question": "Which fish is a royal fish?",
+    "answer": "A kingfish"
+  },
+  {
+    "id": 137,
+    "question": "Why is tennis such a noisy game?",
+    "answer": "Because each player raises a racket."
+  },
+  {
+    "id": 138,
+    "question": "I am something that can run and whistle, but can neither walk nor talk. What am I?",
+    "answer": "A train engine."
+  },
+  {
+    "id": 139,
+    "question": "If you throw a black stone in the River Ganges, what will it become?",
+    "answer": "It will become wet."
+  },
+  {
+    "id": 140,
+    "question": "Which part of London is in France?",
+    "answer": "The letter N"
+  },
+  {
+    "id": 141,
+    "question": "I am a grain but I hurt you when you step on me. Who am I?",
+    "answer": "Corn"
+  },
+  {
+    "id": 142,
+    "question": "What starts with a T, ends with a T and is full of T?",
+    "answer": "A teapot"
+  },
+  {
+    "id": 143,
+    "question": "There is something that belongs to you, but others use it more than you do. What is it?",
+    "answer": "Your name"
+  },
+  {
+    "id": 144,
+    "question": "When do elephants have eight feet?",
+    "answer": "When there are two of them."
+  },
+  {
+    "id": 145,
+    "question": "Which fish is seen at night?",
+    "answer": "Starfish"
+  },
+  {
+    "id": 146,
+    "question": "What has neither eyes nor ears, yet it leads the blind?",
+    "answer": "A walking stick"
+  },
+  {
+    "id": 147,
+    "question": "Why did the farmer call his piglet 'Ink'?",
+    "answer": "It keeps running out of the pen."
+  },
+  {
+    "id": 148,
+    "question": "Which heavenly body has a head and a tail?",
+    "answer": "A comet"
+  },
+  {
+    "id": 149,
+    "question": "Which fish is used by a fighter?",
+    "answer": "A swordfish"
+  },
+  {
+    "id": 150,
+    "question": "Where are the kings of England usually crowned?",
+    "answer": "On the head."
+  },
+  {
+    "id": 151,
+    "question": "Which is the laziest planet?",
+    "answer": "The creeper"
+  },
+  {
+    "id": 152,
+    "question": "I am a vegetable but I am measured like diamonds. Who am I?",
+    "answer": "Carrots (Carats)"
+  },
+  {
+    "id": 153,
+    "question": "What is the best thing to put in a chocolate?",
+    "answer": "Your teeth"
+  },
+  {
+    "id": 154,
+    "question": "What is it that breaks the moment you mention its name?",
+    "answer": "Silence"
+  },
+  {
+    "id": 155,
+    "question": "Which country is good for skaters?",
+    "answer": "Iceland"
+  },
+  {
+    "id": 156,
+    "question": "Why is the letter G like the sun?",
+    "answer": "Because it is the centre of light."
+  },
+  {
+    "id": 157,
+    "question": "Which key opens no lock?",
+    "answer": "A don-key"
+  },
+  {
+    "id": 158,
+    "question": "Which pet makes good music?",
+    "answer": "A trum-pet"
+  },
+  {
+    "id": 159,
+    "question": "Which country is useful at mealtimes?",
+    "answer": "China"
+  },
+  {
+    "id": 160,
+    "question": "Which dog keeps the best time?",
+    "answer": "A watchdog"
+  },
+  {
+    "id": 161,
+    "question": "What can you hold in your left hand that you cannot hold in your right hand?",
+    "answer": "Your right elbow"
+  },
+  {
+    "id": 162,
+    "question": "When does a car go exactly as fast as a train?",
+    "answer": "When it is on the train."
+  },
+  {
+    "id": 163,
+    "question": "What is dark but is made of light?",
+    "answer": "A shadow"
+  },
+  {
+    "id": 164,
+    "question": "What are the biggest ants in the world?",
+    "answer": "Gi-ants"
+  },
+  {
+    "id": 165,
+    "question": "What makes more noise than a pig trying to escape?",
+    "answer": "Two pigs trying to escape."
+  },
+  {
+    "id": 166,
+    "question": "I have teeth, but I can't eat. What I am?",
+    "answer": "A comb"
+  },
+  {
+    "id": 167,
+    "question": "Why is India like the first 'U' in 'cumcumber'?",
+    "answer": "Because it is in between two seas (c's)"
+  },
+  {
+    "id": 168,
+    "question": "What can fly underwater?",
+    "answer": "A mosquito in a submarine."
+  },
+  {
+    "id": 169,
+    "question": "What medicine do ants take when ill?",
+    "answer": "Antibiotics"
+  },
+  {
+    "id": 170,
+    "question": "How can you close a book without touching it?",
+    "answer": "Ask someone else to do it."
+  },
+  {
+    "id": 171,
+    "question": "If you feed me I will live, but if you give me water I will die. What am I?",
+    "answer": "Fire"
+  },
+  {
+    "id": 172,
+    "question": "Which vegetable has money in it?",
+    "answer": "Mint"
+  },
+  {
+    "id": 173,
+    "question": "Why is an island like the letter T?",
+    "answer": "Because it is in the middle of water."
+  }
+]
