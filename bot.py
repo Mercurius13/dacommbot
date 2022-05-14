@@ -231,6 +231,6 @@ async def checkcog(ctx):
     else:
         await ctx.send(embed=nextcord.Embed(title="Nope you imposter", description="I dont take orders from peasants like you <a:ZOWumpusTongue:865559251764903946>", color=nextcord.Color.random()))
 
-      
+keep_alive()
 token = os.getenv("DISCORD_BOT_SECRET")
 bot.run(token)
