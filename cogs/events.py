@@ -5,7 +5,6 @@ from datetime import datetime
 import pytz
 from tinydb import TinyDB, Query
 import csv
-import topgg
 dbl_token = os.getenv('dbl_token')
 
 
@@ -13,11 +12,7 @@ class events(commands.Cog):
     """A couple of simple commands."""
 
     def __init__(self, bot: commands.Bot):
-        self.bot = bot
-
-        self.bot.topggpy = topgg.DBLClient(bot, dbl_token, autopost=True)
-
-    
+        self.bot = bot    
 
     @commands.Cog.listener()
     async def on_ready(self):
@@ -191,10 +186,6 @@ class events(commands.Cog):
         a = self.bot.get_guild(869173101131337748)
         channel = a.get_channel(869447409237897256)
         await channel.send(embed=embed)
-
-    @commands.Cog.listener()
-    async def on_autopost_success(self):
-        (f"Posted server count ({self.bot.topggpy.guild_count}))")
 
 
 def setup(bot: commands.Bot):
