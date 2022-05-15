@@ -12,24 +12,7 @@ from discord_slash import cog_ext
 intents = nextcord.Intents.default()
 intents.members = True
 
-
-async def determine_prefix(bot, message):
-    if message.guild:
-        db = TinyDB('databases/prefix.json')
-        if message is not None:
-            guild_id = message.guild.id
-        query = Query()
-        if db.search(query['guild_id'] == str(guild_id)):
-            values = list(map(lambda entry: entry["prefix"], db.search(
-                query.guild_id == str(guild_id))))
-            return values
-        return '!'
-
-    else:
-        return '!'
-
-
-bot = commands.Bot(command_prefix=determine_prefix, intents=intents, enable_debug_events=True)
+bot = commands.Bot(command_prefix='-', intents=intents, enable_debug_events=True)
 slash = SlashCommand(bot, sync_commands=True)
 
 bot.remove_command('help')
