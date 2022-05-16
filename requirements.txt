@@ -19,4 +19,4 @@ future~=0.18.2
 git+https://github.com/TechnoFrost27/discord-interactions.git
 flask
 giphy-client==1.0.0
-akinator.py==5.0.0
+akinator.py
