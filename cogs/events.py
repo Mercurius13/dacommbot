@@ -21,7 +21,7 @@ class events(commands.Cog):
         print(self.bot.user.name)
         print(self.bot.user.id)
         print('.....')
-        await bot.change_presence(
+        await self.bot.change_presence(
             status=nextcord.Status.idle,
             activity=nextcord.Activity(
                 type=nextcord.ActivityType.listening,
