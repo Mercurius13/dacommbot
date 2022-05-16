@@ -915,7 +915,7 @@ class Utils(commands.Cog):
                                             description=f"Was created on <t:{str(created.timestamp()).split('.')[0]}>",
                                             color=nextcord.Color.random()))
 
-    @commands.command(aliases=['ab'])
+    """@commands.command(aliases=['ab'])
     async def about(self, ctx):
         about_embed = nextcord.Embed(title="About ME!", color=nextcord.Color.green())
         about_embed.add_field(name="Bot Developed by:", value=f"ZeroAndOne, [My epic devs!](https://zeroandone.ml)")
@@ -965,14 +965,14 @@ class Utils(commands.Cog):
         vote.add_field(name="1", value=f"[top.gg](https://top.gg/bot/864010316424806451/vote)")
         vote.add_field(name="2", value=f"[discordbotlist.com](https://discordbotlist.com/bots/chad-6621/upvote)")
         vote.set_thumbnail(url="https://i.imgur.com/QICgRpf.png")
-        await ctx.send(embed=vote)
+        await ctx.send(embed=vote)"""
 
     @commands.Cog.listener()
     async def on_message_delete(self, message):
         self.bot.sniped_messages[message.guild.id] = (
             message.content, message.author, message.channel.name, message.created_at)
 
-    @commands.command(aliases=['inv'])
+    """@commands.command(aliases=['inv'])
     async def invite(self, ctx):
         embed = nextcord.Embed(
             title="Invite",
@@ -1106,7 +1106,7 @@ class Utils(commands.Cog):
                                color=nextcord.Color.random())
         embed.set_footer(text=f"Patreon requested by {ctx.author.name}")
         embed.set_thumbnail(url=ctx.author.avatar.url)
-        await ctx.send(embed=embed)
+        await ctx.send(embed=embed)"""
 
     @cog_ext.cog_slash(name="serverlink", description="Use this to make me create an invite link to your server!")
     async def _serverlink(self, ctx: SlashContext):
@@ -1172,7 +1172,7 @@ class Utils(commands.Cog):
         embed.set_footer(text=f"Deleted in : #{channel_name} Sniper: {ctx.author.display_name}")
         await ctx.send(embed=embed)
 
-    @robmoji.error
+    """@robmoji.error
     async def robmoji_error(self, ctx, error):
         member = ctx.author
         membervar = member.display_name
@@ -1197,7 +1197,7 @@ class Utils(commands.Cog):
                                                 color=nextcord.Color.random()))
 
         else:
-            raise error
+            raise error"""
 
     @userinfo.error
     async def userinfo_error(self, ctx, error):
@@ -1427,7 +1427,7 @@ class Utils(commands.Cog):
         else:
             raise error
 
-    @suggest.error
+    """@suggest.error
     async def suggest_error(self, ctx, error):
         if isinstance(error, commands.CommandOnCooldown):
             await ctx.send(embed=nextcord.Embed(title=f"Slow down bro. Try after {round(error.retry_after)} seconds",
@@ -1445,7 +1445,7 @@ class Utils(commands.Cog):
                                                 color=nextcord.Color.random()))
 
         else:
-            raise error
+            raise error"""
 
     @snipe.error
     async def sn_error(self, ctx, error):
