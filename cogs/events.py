@@ -7,7 +7,6 @@ from tinydb import TinyDB, Query
 import csv
 dbl_token = os.getenv('dbl_token')
 
-
 class events(commands.Cog):
     """A couple of simple commands."""
 
