@@ -17,12 +17,6 @@ slash = SlashCommand(bot, sync_commands=True)
 
 bot.remove_command('help')
 
-bot.change_presence(
-        status=nextcord.Status.idle,
-        activity=nextcord.Activity(
-            type=nextcord.ActivityType.listening,
-            name=f"-help || Im back... kinda!"))
-
 for filename in os.listdir('./cogs'):
     if filename.endswith('.py'):
         try:
